@@ -8,7 +8,7 @@
             </div>
             <div class="col-sm-6">
                 <div class="text-sm-end d-none d-sm-block">
-                    Total POS</i> by Teamjaaf
+                    Total POS by Teamjaaf
                 </div>
             </div>
         </div>
